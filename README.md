@@ -1,5 +1,3 @@
-
-
 latent.weave is a creative tool for mashing, blending and glitching GIFs together. Load two GIFs, stack effects, and create something weird.
 
 What you can do with it:
@@ -47,4 +45,4 @@ I have no idea what i'm doing. If you run into any bugs or issues, please let me
 
 Enjoy making weird GIF art <3 If you create something cool, I'd love to hear about it.
 
-																  										Examples >>>>>>
+																  										
